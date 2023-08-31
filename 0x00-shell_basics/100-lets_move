@@ -1,0 +1,2 @@
+#!/bin/bash
+mv [[:upper:]]* /tmp/u for 100-tree
