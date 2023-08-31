@@ -1,2 +1,1 @@
-#My first readme on shell permission
-directory contains shell command
+shell_permission
